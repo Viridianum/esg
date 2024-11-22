@@ -1,6 +1,6 @@
-# ESG Challenges
+# ESG and UN SDGs Challenges
 
-**VIRIDIANUM tackles Environmental, Social, and Governance (ESG) challenges by leveraging blockchain technology to bring transparency, accessibility, and efficiency to renewable energy investments. By addressing these three pillars, the platform creates an inclusive and impactful ecosystem for driving sustainability.**
+### VIRIDIANUM tackles Environmental, **Social, and Governance (ESG)** challenges by leveraging blockchain technology to bring transparency, accessibility, and efficiency to renewable energy investments. By addressing these three pillars, the platform creates an inclusive and impactful ecosystem for driving sustainability.
 
 **Environmental (E):**
 - Increase renewable energy production through investments in solar, wind, and biogas projects.
