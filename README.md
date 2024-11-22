@@ -23,15 +23,16 @@
 ### UN SDGs Challenges
 **VIRIDIANUM directly supports the United Nations Sustainable Development Goals (SDGs) 7, 9, and 13 by addressing systemic barriers in renewable energy adoption. By creating accessible, scalable, and transparent solutions, the platform aligns with global efforts to achieve a sustainable future.**
 
-
 **Goal 7 (Affordable and Clean Energy):**
 
 - Enable renewable energy adoption in underserved regions with limited infrastructure.
 - Invest in projects that don’t require costly grid balancing, like off-grid biogas and wind energy.
+
 **Goal 9 (Industry, Innovation, and Infrastructure):**
 
 - Build sustainable energy infrastructure in developing regions, focusing on efficiency and innovation.
 - Introduce tokenization to improve accessibility and reduce investment barriers.
+
 **Goal 13 (Climate Action):**
 
 - Reduce carbon emissions through large-scale renewable energy deployment.
